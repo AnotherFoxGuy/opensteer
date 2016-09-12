@@ -1,0 +1,14 @@
+material Scenario/Floor
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture grassAndLeaves.png
+			}
+		}
+	}
+}

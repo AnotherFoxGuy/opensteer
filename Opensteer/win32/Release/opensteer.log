@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  Clock.cpp
+  Draw.cpp
+  Obstacle.cpp
+  Pathway.cpp
+  PlugIn.cpp
+  SimpleVehicle.cpp
+  Vec3.cpp
+  Generating Code...
+  lq.c
+  opensteer.vcxproj -> F:\opensteer\win32\Release\opensteer.lib
+  A subdirectory or file F:\opensteer\win32\\lib already exists.
+          1 file(s) copied.

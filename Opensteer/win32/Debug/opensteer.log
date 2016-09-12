@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(F:\opensteer\win32\Debug\opensteer.lib) does not match the Library's OutputFile property value (F:\opensteer\win32\Debug\opensteerd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(opensteer) does not match the Library's OutputFile property value (opensteerd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  opensteer.vcxproj -> F:\opensteer\win32\Debug\opensteer.lib
+  A subdirectory or file F:\opensteer\win32\\lib already exists.
+          1 file(s) copied.
